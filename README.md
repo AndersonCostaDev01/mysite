@@ -2,6 +2,13 @@
 
 ## Oque e o projeto
 
+<<<<<<< HEAD
+Um projeto para aprender sobre django juntamente com a EBAC, mais detalhes do aprendizado esta em [Configurando-django.github](https://github.com/AndersonCostaDev01/Estudando-Djungle/tree/main/config_djungle)
+
+Projeto de um blog pessoal onde teremos a opção de fazer POST onde este post pode esta visivel ou não para o visitante
+
+=======
+>>>>>>> 4637f07c19723db793b56f79289141fd00c57518
 ---
 
 ## Passos para execução
